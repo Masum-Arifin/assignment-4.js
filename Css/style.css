@@ -10,7 +10,7 @@ nav {
     background-color: #fff;  
 }
 
-/* nav .logo {
+nav .logo {
     float: left;
     width: 10%;
     height: 80%;
@@ -19,7 +19,7 @@ nav {
     align-items: center;
     font-size: 24px;
     color: rgb(17, 16, 16);
-} */
+}
 
 nav .links {
     float: right;
