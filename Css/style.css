@@ -76,11 +76,11 @@ nav .icon-burger .line {
     color: white;
 }
 @media screen and (max-width: 768px) {
-    /* nav .logo {
+    nav .logo {
         float: none;
         width: auto;
         justify-content: center;
-    } */
+    }
 
     nav .links {
         float: none;
