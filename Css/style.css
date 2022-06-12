@@ -69,9 +69,9 @@ nav .icon-burger .line {
     border-radius: 3px;
     transition: all .3s ease-in-out;
 }
-/* .fa-shopping-cart{
+.fa-shopping-cart{
     color: white;
-} */
+}
 .fa-search{
     color: white;
 }
