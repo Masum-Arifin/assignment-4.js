@@ -52,14 +52,14 @@ nav .links a {
     top: -100px;
 }
 
-nav .icon-burger {
+/* nav .icon-burger {
     display: none;
     position: absolute;
     right: 5%;
     top: 50%;
     transform: translateY(-50%);
     
-}
+} */
 
 nav .icon-burger .line {
     width: 30px;
