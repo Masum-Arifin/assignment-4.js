@@ -100,9 +100,9 @@ nav .icon-burger .line {
         transition: all .5s ease-in-out;
     }
 
-    /* nav .links a {
+    nav .links a {
         font-size: 20px;
-    } */
+    }
 
     nav :checked~.links {
         bottom: 0;
