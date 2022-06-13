@@ -120,8 +120,8 @@ nav .icon-burger .line {
         transform: translateY(-10px) rotate(-225deg);
     }
 
-    /* nav :checked~.icon-burger .line:nth-child(2) {
+    nav :checked~.icon-burger .line:nth-child(2) {
         opacity: 0;
-    } */
+    }
 
 }
