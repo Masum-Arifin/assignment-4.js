@@ -75,7 +75,7 @@ nav .icon-burger .line {
 .fa-search{
     color: white;
 }
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     nav .logo {
         float: none;
         width: auto;
@@ -124,4 +124,4 @@ nav .icon-burger .line {
         opacity: 0;
     }
 
-}
+} */
