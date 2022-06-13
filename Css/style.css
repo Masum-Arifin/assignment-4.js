@@ -104,9 +104,9 @@ nav .icon-burger .line {
         font-size: 20px;
     }
 
-    /* nav :checked~.links {
+    nav :checked~.links {
         bottom: 0;
-    } */
+    }
 
     nav .icon-burger {
         display: block;
