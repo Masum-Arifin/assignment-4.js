@@ -103,14 +103,14 @@ nav .icon-burger .line {
     nav .links a {
         font-size: 20px;
     }
-/* 
+
     nav :checked~.links {
         bottom: 0;
-    } */
-
-    nav .icon-burger {
-        display: block;
     }
+
+    /* nav .icon-burger {
+        display: block;
+    } */
 
     nav :checked~.icon-burger .line:nth-child(1) {
         transform: translateY(10px) rotate(225deg);
