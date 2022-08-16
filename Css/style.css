@@ -108,9 +108,9 @@ nav .icon-burger .line {
         bottom: 0;
     }
 
-    /* nav .icon-burger {
+    nav .icon-burger {
         display: block;
-    } */
+    }
 
     nav :checked~.icon-burger .line:nth-child(1) {
         transform: translateY(10px) rotate(225deg);
