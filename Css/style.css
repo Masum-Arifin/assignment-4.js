@@ -37,7 +37,7 @@ nav .links li {
     
 }
 
-/* nav .links a {
+nav .links a {
     display: block;
     padding: 1em;
     font-size: 16px;
@@ -45,7 +45,7 @@ nav .links li {
     color: #fff;
     text-decoration: none;
     color: black;
-} */
+}
 
 #nav-toggle {
     position: absolute;
