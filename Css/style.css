@@ -1,4 +1,4 @@
-/* nav {
+nav {
     position: fixed;
     z-index: 10;
     left: 0;
@@ -10,7 +10,7 @@
     background-color: #fff;  
 }
 
-nav .logo {
+/* nav .logo {
     float: left;
     width: 10%;
     height: 80%;
