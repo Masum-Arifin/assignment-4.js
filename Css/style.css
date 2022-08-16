@@ -32,10 +32,10 @@ nav .links {
     align-items: center;
 }
 
-nav .links li {
+/* nav .links li {
     list-style: none;
     
-}
+} */
 
 nav .links a {
     display: block;
