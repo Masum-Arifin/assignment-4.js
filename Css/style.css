@@ -47,10 +47,10 @@ nav .links a {
     color: black;
 }
 
-#nav-toggle {
+/* #nav-toggle {
     position: absolute;
     top: -100px;
-}
+} */
 
 nav .icon-burger {
     display: none;
